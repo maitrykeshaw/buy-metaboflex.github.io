@@ -1,1 +1,1 @@
-# buy-metaboflex.github.io
+# https://buy-metaboflex.vercel.app
