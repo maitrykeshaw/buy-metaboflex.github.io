@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"MetaboFlex™ | Official Website | Get Special 80% Off Today ! Hurry",
+  "short_name":"MetaboFlex™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Metaboflex formula being developed to correct this issue with metabolism with a blend of ingredients that is sourced from rainforest.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
